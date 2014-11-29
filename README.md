@@ -32,7 +32,7 @@ send me a pull request and follow the [contribution guide](https://github.com/ch
 * [Other](https://github.com/checkcheckzz/scala-github-projects/blob/master/Other.md)
 * [Queue](https://github.com/checkcheckzz/scala-github-projects/blob/master/Queue.md)
 * [Reactive Programming](https://github.com/checkcheckzz/scala-github-projects/blob/master/ReactiveProgramming.md)
-* [Sbt plugins](https://github.com/checkcheckzz/scala-github-projects/blob/master/Sbt plugins.md)
+* [Sbt plugins](https://github.com/checkcheckzz/scala-github-projects/blob/master/Sbtplugins.md)
 * [Science](https://github.com/checkcheckzz/scala-github-projects/blob/master/Science.md)
 * [Serialization](https://github.com/checkcheckzz/scala-github-projects/blob/master/Serialization.md)
 * [Testing](https://github.com/checkcheckzz/scala-github-projects/blob/master/Testing.md)
