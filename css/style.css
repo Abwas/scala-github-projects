@@ -1,0 +1,124 @@
+
+body {
+  background:#E0FFFF url('../img/bg-noise.png') top left;
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #FF0000;
+}
+
+p {
+  font-size: 17px;
+  font-family: 'Lucida Grande', 'Lucida Sans Unicode', sans-serif;
+  line-height: 1.5em;
+}
+
+h1 {
+  font-family: 'MuseoSlab500Regular', sans-serif;
+  text-align: center;
+  color: #999;
+  font-size: 42px;
+  margin: 30px 0 0 0;
+}
+
+.title p {
+  text-align: center;
+}
+
+.title a {
+	text-decoration: none;
+	color: #FF6600;
+	
+}
+
+.title a:hover {
+	color: #FF0000;
+}
+
+.author {
+  margin: 0 auto;
+  width: 700px;
+  text-align: center;
+  clear: both;
+}
+
+.author a {
+  text-decoration: none;
+  color: #FF6600;
+	
+}
+
+.author a:hover {
+  color: #FF0000;
+}
+
+
+.author .heart {
+  display: inline-block;
+  position: relative;
+  top: .2em;
+  font-size: 1.4em;
+  color: #FF0066;
+  -webkit-transform: scale(.7);
+  -moz-transform: scale(.7);
+  transform: scale(.7);
+  -webkit-animation: heart .4s infinite linear alternate-reverse;
+  -moz-animation: heart .4s infinite linear alternate-reverse;
+  animation: heart .4s infinite linear alternate-reverse;
+}
+@-webkit-keyframes heart {
+  to { -webkit-transform: scale(1.0); }
+}
+
+@-moz-keyframes heart {
+  to { -moz-transform: scale(1.0); }
+}
+
+@keyframes heart {
+  to { transform: scale(1.0); }
+}
+
+#github-logo {
+  position: fixed;
+  bottom: -5px;
+  right: 20px;
+  z-index: 1;
+  display: block;
+  opacity: 0.3;
+}
+
+.github-ribbon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+}
+
+
+.gh-btns {
+ position: relative;
+ left: 14%; 
+ 
+}
+
+.container{
+  width: 700px;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+/* list
+   ========================================================================== */
+   
+.list { width:700px; font-family:Georgia, Times, serif; font-size:15px; }
+.list ul { list-style: none; }
+.list ul li { }
+.list ul li a { display:block; text-decoration:none; color:#000000; background-color:#FFFFFF; line-height:30px;
+  border-bottom-style:solid; border-bottom-width:1px; border-bottom-color:#CCCCCC; padding-left: 10px; cursor:pointer; }
+.list ul li a:hover { color:#FFFFFF; background-image:url(../img/hover.png); background-repeat:repeat-x; }
+.list ul li a strong { margin-right:10px; } 
+  
+
+
