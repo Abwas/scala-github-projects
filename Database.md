@@ -47,4 +47,44 @@ Project Homepage: http://scalikejdbc.org/
 
 1. spark-cassandra-connector    
 If you write a Spark application that needs access to Cassandra, this library is for you.     
-Project Source: https://github.com/datastax/spark-cassandra-connector    
+Project Source: https://github.com/datastax/spark-cassandra-connector
+
+1. storehaus    
+Storehaus is a library that makes it easy to work with asynchronous key value stores.    
+Project Source: https://github.com/twitter/storehaus   
+
+1. cassie    
+A Scala client for Cassandra.    
+Project Source: https://github.com/twitter/cassie   
+
+1. querulous   
+An agreeable way to talk to your database.    
+Project Source: https://github.com/nkallen/querulous  
+
+1. activate  
+Activate is a framework to persist objects in Scala.   
+Project Source: https://github.com/fwbrasil/activate   
+Project Homepage: http://activate-framework.org/  
+
+1. scala-activerecord   
+ActiveRecord-like ORM library for Scala.    
+Project Source: https://github.com/aselab/scala-activerecord  
+
+1. blinkdb    
+BlinkDB is a large-scale data warehouse system built on Shark and Spark and is designed to be compatible with Apache Hive.     
+Project Source: https://github.com/sameeragarwal/blinkdb          
+Project Homepage: http://blinkdb.org/
+
+1. phantom    
+Reactive type-safe Scala DSL for Cassandra.   
+Project Source: https://github.com/websudos/phantom    
+Project Documentation: http://websudos.github.io/phantom/  
+
+1. slick-pg   
+Slick extensions for PostgreSQL, to support a series of pg data types and related operators/functions.    
+Project Source: https://github.com/tminglei/slick-pg  
+
+1. neo4j-scala   
+Scala wrapper for Neo4j Graph Database.    
+Project Source: https://github.com/FaKod/neo4j-scala  
+   

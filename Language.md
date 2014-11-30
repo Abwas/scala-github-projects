@@ -16,7 +16,7 @@ Project Source: https://github.com/scalaz/scalaz
 Project Homepage: http://typelevel.org/
 
 1. scala-js    
-Scala.js compiles Scala code to JavaScript, allowing you to write your Web application entirely in Scala!   
+Scala.js compiles Scala code to JavaScript, allowing you to write your Web application entirely in Scala.   
 Project Source: https://github.com/scala-js/scala-js    
 Project Homepage: http://www.scala-js.org/
 
@@ -35,6 +35,16 @@ Project Source: https://github.com/paulp/policy
 1. papa-carlo    
 Constructor of incremental parsers in Scala.     
 project Source: https://github.com/Eliah-Lakhin/papa-carlo     
-Project Homepage: http://lakhin.com/projects/papa-carlo/    
+Project Homepage: http://lakhin.com/projects/papa-carlo/   
 
+1. dotty    
+Research platform for new language concepts and compiler technologies for Scala.    
+Project Source:  https://github.com/lampepfl/dotty
 
+1. Metascala   
+A JVM written in Scala.   
+Project Source: https://github.com/lihaoyi/Metascala 
+
+1. Scalaxy   
+Scalaxy makes Scala faster and hopefully safer to use in production, through compilation optimizations and warnings.    
+Project Source: https://github.com/ochafik/Scalaxy  

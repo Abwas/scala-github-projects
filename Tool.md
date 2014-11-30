@@ -1,10 +1,5 @@
 ##Tool
 
-1. iago       
-Iago is a load generation tool that replays production or synthetic traffic against a given target.      
-Project Source: https://github.com/twitter/iago    
-Project Homepage: http://twitter.github.io/iago/
-
 1. giter8       
 Giter8 is a command line tool to generate files and directories from templates published on github or any other git repository.       
 Project Source: https://github.com/n8han/giter8      
@@ -40,4 +35,30 @@ Project Homepage: http://twitter.github.io/scrooge/
 1. ensime-server    
 ENhanced Scala Interaction Mode for text Editors (especially Emacs) Server Component.     
 Project Source: https://github.com/ensime/ensime-server   
-       
+
+1. scalariform     
+Scalariform is a code formatter for Scala.    
+Project Source: https://github.com/mdr/scalariform     
+Project Documentation: http://mdr.github.io/scalariform/     
+
+1. wartremover    
+WartRemover is a flexible Scala code linting tool.    
+Project Source: https://github.com/typelevel/wartremover
+
+1. scala-arm    
+This project is an attempt to provide an Automatic-Resource-Management library for the scala distribution.     
+Project Source: https://github.com/jsuereth/scala-arm   
+
+1. activator   
+Typesafe Activator is a browser-based or command-line tool that helps developers get started with the Typesafe Reactive Platform.    
+Project Source: https://github.com/typesafehub/activator    
+Project Homepage: http://typesafe.com/activator  
+
+1. spray-template   
+SBT template project for quickly getting started with spray-server.   
+Project Source: https://github.com/spray/spray-template 
+
+1. jscala  
+Scala macro that produces JavaScript from Scala code.   
+Project Source: https://github.com/nau/jscala  
+    

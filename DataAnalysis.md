@@ -10,4 +10,20 @@ Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kinesis,
 Project Source: https://github.com/snowplow/snowplow    
 Project Homepage: http://snowplowanalytics.com/
 
+1. geotrellis   
+GeoTrellis is a geographic data processing engine for high performance applications.    
+Project Source: https://github.com/geotrellis/geotrellis    
+project Homepage: https://github.com/geotrellis/geotrellis  
+
+1. elastic4s   
+Scala client and DSL for elasticsearch.    
+Project Source: https://github.com/sksamuel/elastic4s  
+
+1. ScalaStorm     
+ScalaStorm provides a Scala DSL for Nathan Marz's Storm real-time computation system.     
+Project Source: https://github.com/velvia/ScalaStorm
+
+1. sqltyped   
+Embedding SQL as an external DSL into Scala.  
+Project Source: https://github.com/jonifreeman/sqltyped  
    
