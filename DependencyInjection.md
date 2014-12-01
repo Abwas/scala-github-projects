@@ -8,4 +8,9 @@ Project Source: https://github.com/dickwall/subcut
 Lightweight and Nonintrusive Scala Dependency Injection Library.    
 Project Source: https://github.com/adamw/macwire    
 Project Homepage: https://softwaremill.com/
+
+1. scaldi    
+Lightweight Scala Dependency Injection Library.    
+Project Source: https://github.com/scaldi/scaldi    
+Projecy Homepage: http://scaldi.org/ 
    

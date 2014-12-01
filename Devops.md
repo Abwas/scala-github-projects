@@ -39,3 +39,7 @@ Project Homepage: http://twitter.github.io/iago/
 1. AWScala  
 AWScala enables Scala developers to easily work with Amazon Web Services in the Scala way.     
 Project Source: https://github.com/seratch/AWScala   
+
+1. thyme   
+Thyme is a microbenchmark utility for Scala. It includes Parsley, a (simple) local profiling tool.     
+Proejct Source: https://github.com/Ichoran/thyme   

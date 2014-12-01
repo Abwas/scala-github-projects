@@ -80,4 +80,33 @@ Project Source: https://github.com/robey/configgy
 1. scrimage   
 Scala image processing library.    
 Project Source: https://github.com/sksamuel/scrimage  
+
+1. squants    
+The Scala API for Quantities, Units of Measure and Dimensional Analysis.    
+Project Source: https://github.com/garyKeorkunian/squants    
+Project Website: http://www.squants.com/
         
+1. scala-graph    
+Graph for Scala is intended to provide basic graph functionality seamlessly fitting into the Scala Collection Library.    
+Project Source: https://github.com/scala-graph/scala-graph  
+
+1. accord    
+A sane validation library for Scala.     
+Project Source: https://github.com/wix/accord   
+
+1. Configrity      
+Simple, immutable and flexible configuration library for scala.    
+Project Source: https://github.com/paradigmatic/Configrity   
+
+1. scala-io      
+The goal of this project is to create an Input/Output and filesystem access API for scala.    
+Project Source: https://github.com/scala-incubator/scala-io  
+
+1. larray     
+Large off-heap arrays and memory-mapped file (mmap) for Java and Scala.     
+Project Source: https://github.com/xerial/larray
+
+1. metrics-scala    
+The scala API for Coda Hale's Metrics.     
+Project Source: https://github.com/erikvanoosten/metrics-scala   
+ 

@@ -50,5 +50,34 @@ Project Source: https://github.com/harrah/browse.
 1. moe   
 An -OFun prototype of an Ultra Modern Perl 5.   
 Project Source: https://github.com/MoeOrganization/moe     
-Project Homepage: http://moeorganization.github.io/moe-web/   
-  
+Project Homepage: http://moeorganization.github.io/moe-web/
+
+1. extraction-framework      
+The software used to extract structured data from Wikipedia.    
+Project Source: https://github.com/dbpedia/extraction-framework
+
+1. KafkaOffsetMonitor     
+A little app to monitor the progress of kafka consumers and their lag wrt the queue.    
+Project Source: https://github.com/quantifind/KafkaOffsetMonitor   
+
+1. bootzooka   
+Bootzooka is a simple application scaffolding project to allow quick start of development for modern web based applications.     
+Project Source: https://github.com/softwaremill/bootzooka   
+
+1. OpenComputers    
+OpenComputers is a Minecraft mod that adds programmable computers and robots to the game.     
+Project Source: https://github.com/MightyPirates/OpenComputers    
+
+1. s4   
+Simple, mostly blank project to help you get started with a Spray REST service using Slick as persistence broker.     
+Project Source: https://github.com/jacobus/s4   
+
+1. Swarm      
+Swarm is a framework allowing the creation of web applications which can scale transparently through a novel portable continuation-based approach.     
+Project Source: https://github.com/sanity/Swarm    
+Project Homepage: http://swarmframework.org/   
+
+1. lojinha    
+a small store application, developed using Play 2 and Akka 2.    
+Project Source: https://github.com/jcranky/lojinha   
+        

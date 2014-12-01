@@ -27,4 +27,24 @@ Project Documentation: http://www.scalastyle.org/
 1. specs2    
 specs2 is a library for writing executable software specifications.    
 Project Source: https://github.com/etorreborre/specs2     
-Project Homepage: http://etorreborre.github.io/specs2/    
+Project Homepage: http://etorreborre.github.io/specs2/   
+
+1. scalac-scoverage-plugin   
+Scoverage Scala Code Coverage Core Libs.    
+Project Source: https://github.com/scoverage/scalac-scoverage-plugin    
+Project Homepage: http://scoverage.org/ 
+
+1. expecty     
+Power assertions (as known from Groovy and Spock) for the Scala language.     
+Project Source: https://github.com/pniederw/expecty  
+
+1. scct    
+Scala Code Coverage Tool.    
+Project Source: https://github.com/mtkopone/scct     
+Project Homepage: http://mtkopone.github.io/scct/  
+
+1. ScalaMock    
+Native Scala mocking framework.    
+Project Source: https://github.com/paulbutcher/ScalaMock     
+Project Homepage: http://scalamock.org/   
+     

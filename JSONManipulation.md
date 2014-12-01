@@ -24,5 +24,9 @@ Project Source: https://github.com/stevej/scala-json
 
 1. jackson-module-scala    
 Add-on module for Jackson (http://jackson.codehaus.org) to support Scala-specific datatypes.    
-Project Source: https://github.com/FasterXML/jackson-module-scala  
-   
+Project Source: https://github.com/FasterXML/jackson-module-scala 
+
+1. json-lenses    
+A library to query and update JSON data in Scala.    
+Project Source: https://github.com/jrudolph/json-lenses   
+     

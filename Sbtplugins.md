@@ -45,3 +45,19 @@ Project Source: https://github.com/sbt/sbt-onejar
 1. sbt-web     
 This project provides the building blocks for web oriented sbt plugins.    
 Project Source: https://github.com/sbt/sbt-web  
+
+1. sbt-updates    
+SBT plugin that can check maven repositories for dependency updates.    
+Project Source: https://github.com/rtimush/sbt-updates  
+
+1. standard-project    
+A slightly more standard sbt project plugin library.    
+Project Source: https://github.com/twitter/standard-project 
+
+1. play-auto-refresh   
+This is an SBT plugin for Play Framework (or sbt-web) apps.    
+Project Source: https://github.com/jamesward/play-auto-refresh   
+
+1. sbt-start-script    
+SBT Plugin to create a "start" script to run the program.    
+Project Source: https://github.com/sbt/sbt-start-script   

@@ -61,4 +61,20 @@ Project Source: https://github.com/spray/spray-template
 1. jscala  
 Scala macro that produces JavaScript from Scala code.   
 Project Source: https://github.com/nau/jscala  
+
+1. metricsd    
+A metrics aggregator for Graphite.    
+Project Source: https://github.com/mojodna/metricsd
+
+1. gremlin-scala   
+A thin wrapper for Gremlin to make it easily usable for Scala Developers.    
+Project Source: https://github.com/mpollmeier/gremlin-scala    
+
+1. scala-ssh-shell   
+Backdoor that gives you a scala shell over ssh on your jvm.    
+Project Source: https://github.com/peak6/scala-ssh-shell  
+
+1. scalagen   
+Java to Scala transformation.    
+Project Source: https://github.com/mysema/scalagen   
     

@@ -47,4 +47,8 @@ Project Source: https://github.com/lihaoyi/Metascala
 
 1. Scalaxy   
 Scalaxy makes Scala faster and hopefully safer to use in production, through compilation optimizations and warnings.    
-Project Source: https://github.com/ochafik/Scalaxy  
+Project Source: https://github.com/ochafik/Scalaxy 
+
+1. zinc    
+sbt's scala incremental compiler.     
+Project Source: https://github.com/typesafehub/zinc  

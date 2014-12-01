@@ -87,4 +87,21 @@ Project Source: https://github.com/tminglei/slick-pg
 1. neo4j-scala   
 Scala wrapper for Neo4j Graph Database.    
 Project Source: https://github.com/FaKod/neo4j-scala  
+
+1. sorm   
+A functional boilerplate-free Scala ORM.    
+Project Source: https://github.com/sorm/sorm     
+Project Homepage: http://sorm-framework.org/  
+
+1. scala-redis-nb    
+Implementation of a non blocking Redis client in Scala using Akka IO.     
+Project Source: https://github.com/debasishg/scala-redis-nb   
+
+1. hammersmith    
+Pure asynchronous MongoDB Driver for Scala.     
+Project Source: https://github.com/bwmcadams/hammersmith   
+
+1. scalacache   
+Simple caching in Scala.     
+Project Source: https://github.com/cb372/scalacache   
    

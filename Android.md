@@ -11,6 +11,11 @@ Project Source: https://github.com/PkmX/lcamera
 
 1. Antox      
 Antox is an Android 2.2+ client for Tox.   
-Project Source: https://github.com/Astonex/Antox     
+Project Source: https://github.com/Astonex/Antox    
+
+1. macroid    
+A modular functional UI language for Android.    
+Project Source: https://github.com/macroid/macroid     
+Project Homepage: http://macroid.github.io/
 
    

@@ -42,4 +42,8 @@ Project Source: https://github.com/scalanlp/nak
 CPU and GPU-accelerated Machine Learning Library.   
 Project Source: https://github.com/BIDData/BIDMach     
 Project Documentation: https://github.com/BIDData/BIDMach/wiki  
+
+1. gll-combinators   
+A parser combinator library based on the GLL algorithm.    
+Project Source: https://github.com/djspiewak/gll-combinators     
  
