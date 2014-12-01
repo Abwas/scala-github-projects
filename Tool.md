@@ -45,10 +45,6 @@ Project Documentation: http://mdr.github.io/scalariform/
 WartRemover is a flexible Scala code linting tool.    
 Project Source: https://github.com/typelevel/wartremover
 
-1. scala-arm    
-This project is an attempt to provide an Automatic-Resource-Management library for the scala distribution.     
-Project Source: https://github.com/jsuereth/scala-arm   
-
 1. activator   
 Typesafe Activator is a browser-based or command-line tool that helps developers get started with the Typesafe Reactive Platform.    
 Project Source: https://github.com/typesafehub/activator    
@@ -77,4 +73,16 @@ Project Source: https://github.com/peak6/scala-ssh-shell
 1. scalagen   
 Java to Scala transformation.    
 Project Source: https://github.com/mysema/scalagen   
-    
+
+1. browse     
+Browsable Scala source code in HTML.      
+Project Source: https://github.com/harrah/browse.   
+
+1. ForgeMultipart    
+An API for dynamically handling different functional parts in the one block space.    
+Project Source: https://github.com/Chicken-Bones/ForgeMultipart    
+
+1. javatoscala   
+Online Java to Scala converter.    
+Project Source: https://github.com/koofr/javatoscala    
+

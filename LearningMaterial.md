@@ -44,4 +44,16 @@ Project Source: https://github.com/brikis98/ping-play
 1. reactivemongo-demo-app    
 Full web application built upon Play 2.0 and ReactiveMongo.    
 Project Source: https://github.com/sgodbillon/reactivemongo-demo-app  
+
+1. scala-koans   
+The Scala koans will guide you on your journey to learn Scala.     
+Project Source: https://github.com/rubbish/scala-koans
+
+1. CourseraCodeSamplesReactiveProgramming      
+Coursera Principles of Reactive Programming Samples     
+Project Source: https://github.com/headinthebox/CourseraCodeSamplesReactiveProgramming  
+
+1. scala-spring-hibernate-maven-webapp    
+Code for kickstarting a webapp using Scala + Spring + Hibernate + Maven + Selenium WebDriver PageObject Web Tests.    
+Project Source: https://github.com/GrahamLea/scala-spring-hibernate-maven-webapp   
 		

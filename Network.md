@@ -52,3 +52,8 @@ Project Source: https://github.com/finagle/finch
 1. spray-can    
 A low-overhead, high-performance, fully async HTTP 1.1 server and client library implemented entirely in Scala on top of Akka .     
 Project Source: https://github.com/spray/spray-can   
+
+1. hookup    
+A reliable netty websocket server built on top of akka.     
+Project Source: https://github.com/backchatio/hookup    
+Project Homepage: http://backchatio.github.io/hookup/   

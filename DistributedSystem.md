@@ -5,6 +5,10 @@ A toolkit and runtime for building highly concurrent, distributed, and fault tol
 Project Source: https://github.com/akka/akka   
 Project Homepage: http://akka.io/  
 
+1. akka-data-replication   
+Replication of CRDTs in Akka Cluster.    
+Project Source: https://github.com/patriknw/akka-data-replication
+
 1. finagle   
 Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.   
 Project Source: https://github.com/twitter/finagle    
@@ -20,5 +24,7 @@ Kafka is a distributed, partitioned, replicated commit log service.
 Project Source: https://github.com/apache/kafka   
 Project Homepage: http://kafka.apache.org/
 
-
+1. incubator-samza    
+Apache Incubator Samza is a distributed stream processing framework.     
+Project Source: https://github.com/apache/incubator-samza    
    

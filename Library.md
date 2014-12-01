@@ -109,4 +109,29 @@ Project Source: https://github.com/xerial/larray
 1. metrics-scala    
 The scala API for Coda Hale's Metrics.     
 Project Source: https://github.com/erikvanoosten/metrics-scala   
- 
+
+1. ScalaCL   
+Run Scala on your GPU.    
+Project Source: https://github.com/ochafik/ScalaCL  
+
+1. scala-arm    
+This project is an attempt to provide an Automatic-Resource-Management library for the scala distribution.     
+Project Source: https://github.com/jsuereth/scala-arm   
+
+1. scalaj-collection    
+A library for converting between Java and Scala collections.     
+Project Source: https://github.com/scalaj/scalaj-collection   
+
+1. scala-workflow    
+Boilerplate-free syntax for effectful computations.     
+Project Source: https://github.com/aztek/scala-workflow   
+
+1. scala-csv    
+CSV Reader/Writer for Scala.    
+Project Source: https://github.com/tototoshi/scala-csv   
+
+1. psp-std     
+psp's non-standard standard library (for scala).    
+Project Source: https://github.com/paulp/psp-std   
+
+   

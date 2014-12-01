@@ -43,10 +43,6 @@ Project Source: https://github.com/typesafehub/webwords
 Modeling high-frequency limit order book dynamics with support vector machines.      
 Project Source:  https://github.com/ezhulenev/orderbook-dynamics    
 
-1. browse     
-Browsable Scala source code in HTML.      
-Project Source: https://github.com/harrah/browse.   
-
 1. moe   
 An -OFun prototype of an Ultra Modern Perl 5.   
 Project Source: https://github.com/MoeOrganization/moe     
@@ -80,4 +76,13 @@ Project Homepage: http://swarmframework.org/
 1. lojinha    
 a small store application, developed using Play 2 and Akka 2.    
 Project Source: https://github.com/jcranky/lojinha   
+
+1. coinffeine    
+P2P and Decentralized Bitcoin Exchange.     
+Project Source: https://github.com/Coinffeine/coinffeine     
+Project Homepage: http://www.coinffeine.com/   
+
+1. net-monitor   
+Toolkit for auditing "phone home" behavior on Mac OS X Yosemite.     
+Project Source: https://github.com/fix-macosx/net-monitor   
         

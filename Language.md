@@ -52,3 +52,12 @@ Project Source: https://github.com/ochafik/Scalaxy
 1. zinc    
 sbt's scala incremental compiler.     
 Project Source: https://github.com/typesafehub/zinc  
+
+1. macrocosm     
+Exploration of Scala macros.    
+Project Source: https://github.com/retronym/macrocosm   
+
+1. scala-stm   
+A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps.     
+Project Source: https://github.com/nbronson/scala-stm     
+Project Homepage: http://nbronson.github.io/scala-stm/   

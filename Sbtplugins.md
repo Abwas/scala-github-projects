@@ -61,3 +61,8 @@ Project Source: https://github.com/jamesward/play-auto-refresh
 1. sbt-start-script    
 SBT Plugin to create a "start" script to run the program.    
 Project Source: https://github.com/sbt/sbt-start-script   
+
+1. sbt-pack    
+A sbt plugin for creating distributable Scala packages.   
+Project Source: https://github.com/xerial/sbt-pack   
+

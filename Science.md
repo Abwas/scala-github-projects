@@ -46,4 +46,20 @@ Project Documentation: https://github.com/BIDData/BIDMach/wiki
 1. gll-combinators   
 A parser combinator library based on the GLL algorithm.    
 Project Source: https://github.com/djspiewak/gll-combinators     
- 
+
+1. figaro   
+Figaro Programming Language and Core Libraries.     
+Project Source: https://github.com/p2t2/figaro   
+
+1. chalk   
+Chalk is a natural language processing library.    
+Project Source: https://github.com/scalanlp/chalk   
+
+1. scalastic    
+scala driver for elasticsearch.    
+Project Source: https://github.com/bsadeh/scalastic   
+
+1. slashem   
+A rogue-like DSL for querying SOLR.    
+Project Source: https://github.com/foursquare/slashem  
+    

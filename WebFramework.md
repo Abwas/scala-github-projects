@@ -29,10 +29,23 @@ Project Source: https://github.com/leon/play-salat
 1mn REST/Crud/Async/Typesafe Datasource for Play Framework.    
 Project Source: https://github.com/mandubian/play-autosource
 
+1. twirl   
+Twirl is the Play template engine.    
+Project Source: https://github.com/playframework/twirl  
+
+1. play2-memcached    
+An implementation of Play 2.0's CacheAPI which provides access to memcached using spymemcached.      
+Project Source: https://github.com/mumoshu/play2-memcached  
+
 1. spray    
 A suite of scala libraries for building and consuming RESTful web services on top of Akka.  
 Project Source: https://github.com/spray/spray    
 Project Homepage: http://spray.io/
+
+
+1. spray-socketio     
+Socket.IO implementation on Spray with cluster sharding.    
+Project Source: https://github.com/wandoulabs/spray-socketio    
 
 1. scalatra    
 Tiny Scala high-performance, async web framework, inspired by Sinatra.    
