@@ -56,4 +56,13 @@ Project Source: https://github.com/headinthebox/CourseraCodeSamplesReactiveProgr
 1. scala-spring-hibernate-maven-webapp    
 Code for kickstarting a webapp using Scala + Spring + Hibernate + Maven + Selenium WebDriver PageObject Web Tests.    
 Project Source: https://github.com/GrahamLea/scala-spring-hibernate-maven-webapp   
-		
+
+1. android-scala-intellij-no-sbt-plugin    
+Directions on how to create a Scala based project in Intellij IDEA without having to resort to additional plugins.    
+Project Source: https://github.com/yareally/android-scala-intellij-no-sbt-plugin   
+
+1. lift-in-action    
+Source code for the book "Lift in Action", publishing on Manning Q4 2011.    
+Project Source: https://github.com/timperrett/lift-in-action     
+Project Homepage: http://timperrett.com/lift-in-action/   
+ 		

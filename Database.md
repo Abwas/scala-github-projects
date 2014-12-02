@@ -108,4 +108,12 @@ Project Source: https://github.com/cb372/scalacache
 1. scala-redis    
 A scala library for connecting to a redis server, or a cluster of redis nodes using consistent hashing on the client side.     
 Project Source: https://github.com/acrosa/scala-redis   
+
+1. haplocheirus     
+A Redis-backed storage engine for timelines.     
+Project Source: https://github.com/twitter/haplocheirus  
+
+1. HPaste    
+HBase DSL for Scala with MapReduce support.     
+Project Source: https://github.com/GravityLabs/HPaste   
    

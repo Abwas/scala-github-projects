@@ -29,4 +29,8 @@ Project Source: https://github.com/FasterXML/jackson-module-scala
 1. json-lenses    
 A library to query and update JSON data in Scala.    
 Project Source: https://github.com/jrudolph/json-lenses   
+
+1. jawn    
+Jawn is for parsing jay-sawn (JSON).     
+Project Source: https://github.com/non/jawn    
      

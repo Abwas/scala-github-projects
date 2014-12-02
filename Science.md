@@ -63,3 +63,19 @@ Project Source: https://github.com/bsadeh/scalastic
 A rogue-like DSL for querying SOLR.    
 Project Source: https://github.com/foursquare/slashem  
     
+1. epic    
+Epic is a high performance statistical parser written in Scala, along with a framework for building complex structured prediction models.     
+Project Source: https://github.com/dlwh/epic   
+
+1. ganitha    
+scalding powered machine learning.     
+Project Source: https://github.com/tresata/ganitha   
+
+1. puck    
+Puck is a lightning-fast parser for natural languages using GPUs.    
+Project Source: https://github.com/dlwh/puck    
+
+1. probability-monad     
+Makes it easy to create, manipulate and sample probability distributions.     
+Project Source: https://github.com/jliszka/probability-monad    
+

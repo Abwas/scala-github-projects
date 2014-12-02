@@ -43,3 +43,13 @@ Project Source: https://github.com/seratch/AWScala
 1. thyme   
 Thyme is a microbenchmark utility for Scala. It includes Parsley, a (simple) local profiling tool.     
 Proejct Source: https://github.com/Ichoran/thyme   
+
+1. monitor    
+Library for monitoring the Typesafe stack-based applications.     
+Project Source: https://github.com/eigengo/monitor     
+
+1. degraph     
+Test and Visualize and Manage Dependencies of classes and packages in JVM Byte Code.     
+Project Source: https://github.com/schauder/degraph      
+Project Homepage: http://schauder.github.io/degraph/   
+ 

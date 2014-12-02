@@ -28,4 +28,12 @@ Project Homepage: http://nicta.github.io/scoobi/
 A genomics processing engine and specialized file format built using Apache Avro, Apache Spark and Parquet.   
 Project Source: https://github.com/bigdatagenomics/adam   
 Project Homepage: http://bdgenomics.org/   
+
+1. mupd8     
+MUPD8 implements the MapUpdate framework, a MapReduce-style framework for processing fast/streaming data.     
+Project Source: https://github.com/walmartlabs/mupd8  
+
+1. ScalaStorm     
+ScalaStorm provides a Scala DSL for Nathan Marz's Storm real-time computation system.     
+Project Source: https://github.com/velvia/ScalaStorm
    

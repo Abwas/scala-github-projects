@@ -6,5 +6,9 @@ Project Source: https://github.com/lihaoyi/scala.rx
 
 1. reactive  
 A simple FRP library and a web UI framework built on it.    
-Project Source: https://github.com/nafg/reactive    
- 
+Project Source: https://github.com/nafg/reactive   
+
+1. scala-react    
+Scala.react is a reactive programming library for Scala.    
+Project Source: https://github.com/ingoem/scala-react   
+  

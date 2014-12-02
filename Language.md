@@ -60,4 +60,13 @@ Project Source: https://github.com/retronym/macrocosm
 1. scala-stm   
 A library-based Software Transactional Memory (STM) for Scala, coupled with transactional sets and maps.     
 Project Source: https://github.com/nbronson/scala-stm     
-Project Homepage: http://nbronson.github.io/scala-stm/   
+Project Homepage: http://nbronson.github.io/scala-stm/  
+
+1. baysick   
+An embedded Insane-specific Language for Scala implementing the BASIC programming language.    
+Project Source: https://github.com/fogus/baysick   
+
+1. IScala    
+Scala backend for IPython.     
+Project Source: https://github.com/mattpap/IScala   
+ 

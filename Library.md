@@ -134,4 +134,7 @@ Project Source: https://github.com/tototoshi/scala-csv
 psp's non-standard standard library (for scala).    
 Project Source: https://github.com/paulp/psp-std   
 
+1. scala-logging    
+Scala Logging is a convenient and performant logging library wrapping SLF4J.     
+Project Source: https://github.com/typesafehub/scala-logging  
    

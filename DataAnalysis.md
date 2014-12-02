@@ -19,10 +19,6 @@ project Homepage: https://github.com/geotrellis/geotrellis
 Scala client and DSL for elasticsearch.    
 Project Source: https://github.com/sksamuel/elastic4s  
 
-1. ScalaStorm     
-ScalaStorm provides a Scala DSL for Nathan Marz's Storm real-time computation system.     
-Project Source: https://github.com/velvia/ScalaStorm
-
 1. sqltyped   
 Embedding SQL as an external DSL into Scala.  
 Project Source: https://github.com/jonifreeman/sqltyped  

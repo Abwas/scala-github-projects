@@ -9,3 +9,8 @@ Project Homepage: http://twitter.github.io/kestrel/
 Message queueing system with an actor-based Scala and Amazon SQS-compatible interfaces.     
 Project Source: https://github.com/adamw/elasticmq     
 Project Homepage: https://softwaremill.com/  
+
+1. scala-zeromq    
+Thread-safe ZeroMQ for Scala.     
+Project Source: https://github.com/mDialog/scala-zeromq   
+ 

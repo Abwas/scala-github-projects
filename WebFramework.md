@@ -37,6 +37,10 @@ Project Source: https://github.com/playframework/twirl
 An implementation of Play 2.0's CacheAPI which provides access to memcached using spymemcached.      
 Project Source: https://github.com/mumoshu/play2-memcached  
 
+1. socket.io.play    
+socket.io with play framework 2.0.     
+Project Source: https://github.com/milliondreams/socket.io.play  
+
 1. spray    
 A suite of scala libraries for building and consuming RESTful web services on top of Akka.  
 Project Source: https://github.com/spray/spray    
