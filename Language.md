@@ -69,4 +69,25 @@ Project Source: https://github.com/fogus/baysick
 1. IScala    
 Scala backend for IPython.     
 Project Source: https://github.com/mattpap/IScala   
- 
+
+1. virtualization-lms-core     
+A Framework for Runtime Code Generation and Compiled DSLs.     
+Project Source: https://github.com/TiarkRompf/virtualization-lms-core     
+Project Homepage: http://scala-lms.github.io/    
+
+1. scrooge   
+Scrooge is a thrift code generator written in Scala, which currently generates code for Scala and Java.    
+Project Source: https://github.com/twitter/scrooge    
+Project Homepage: http://twitter.github.io/scrooge/ 
+
+1. jscala  
+Scala macro that produces JavaScript from Scala code.   
+Project Source: https://github.com/nau/jscala  
+
+1. scalagen   
+Java to Scala transformation.    
+Project Source: https://github.com/mysema/scalagen 
+
+1. javatoscala   
+Online Java to Scala converter.    
+Project Source: https://github.com/koofr/javatoscala    

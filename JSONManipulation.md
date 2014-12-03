@@ -32,5 +32,9 @@ Project Source: https://github.com/jrudolph/json-lenses
 
 1. jawn    
 Jawn is for parsing jay-sawn (JSON).     
-Project Source: https://github.com/non/jawn    
-     
+Project Source: https://github.com/non/jawn  
+
+1. dijon    
+A Dynamically Typed Scala Json Library.    
+Project Source: https://github.com/pathikrit/dijon    
+       

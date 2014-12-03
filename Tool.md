@@ -26,12 +26,7 @@ Project Homepage: http://blog.jetbrains.com/scala/
 1. spring-scala    
 The goal of Spring Scala is to make it easier to use the Spring framework in Scala.     
 Project Source: https://github.com/spring-projects/spring-scala    
-
-1. scrooge   
-Scrooge is a thrift code generator written in Scala, which currently generates code for Scala and Java.    
-Project Source: https://github.com/twitter/scrooge    
-Project Homepage: http://twitter.github.io/scrooge/    
-
+   
 1. ensime-server    
 ENhanced Scala Interaction Mode for text Editors (especially Emacs) Server Component.     
 Project Source: https://github.com/ensime/ensime-server   
@@ -50,14 +45,6 @@ Typesafe Activator is a browser-based or command-line tool that helps developers
 Project Source: https://github.com/typesafehub/activator    
 Project Homepage: http://typesafe.com/activator  
 
-1. spray-template   
-SBT template project for quickly getting started with spray-server.   
-Project Source: https://github.com/spray/spray-template 
-
-1. jscala  
-Scala macro that produces JavaScript from Scala code.   
-Project Source: https://github.com/nau/jscala  
-
 1. metricsd    
 A metrics aggregator for Graphite.    
 Project Source: https://github.com/mojodna/metricsd
@@ -69,11 +56,7 @@ Project Source: https://github.com/mpollmeier/gremlin-scala
 1. scala-ssh-shell   
 Backdoor that gives you a scala shell over ssh on your jvm.    
 Project Source: https://github.com/peak6/scala-ssh-shell  
-
-1. scalagen   
-Java to Scala transformation.    
-Project Source: https://github.com/mysema/scalagen   
-
+  
 1. browse     
 Browsable Scala source code in HTML.      
 Project Source: https://github.com/harrah/browse.   
@@ -85,3 +68,27 @@ Project Source: https://github.com/Chicken-Bones/ForgeMultipart
 1. javatoscala   
 Online Java to Scala converter.    
 Project Source: https://github.com/koofr/javatoscala    
+
+1. scala-ssh     
+Remote shell access via SSH for your Scala applications.     
+Project Source: https://github.com/sirthias/scala-sshvv
+
+1. akka.js    
+akka actors for java script.    
+Project Source: https://github.com/teamon/akka.js   
+
+1. np    
+new sbt project generation made simple(r).     
+Project Source: https://github.com/softprops/np  
+
+1. actuarius    
+A markdown processor for the JVM written in Scala.     
+Project Source: https://github.com/chenkelmann/actuarius   
+
+1. ddsl    
+DDSL - Dynamic Distributed Service Locator.     
+Project Source: https://github.com/mbknor/ddsl  
+
+1. scala-ide-play2    
+Play 2 support for Scala IDE.     
+Project Source: https://github.com/scala-ide/scala-ide-play2  

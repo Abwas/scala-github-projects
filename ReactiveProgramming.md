@@ -11,4 +11,8 @@ Project Source: https://github.com/nafg/reactive
 1. scala-react    
 Scala.react is a reactive programming library for Scala.    
 Project Source: https://github.com/ingoem/scala-react   
+
+1. ddd-leaven-akka     
+Reactive DDD with Akka.     
+Project Source: https://github.com/pawelkaczor/ddd-leaven-akka  
   

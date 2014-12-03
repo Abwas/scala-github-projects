@@ -137,4 +137,8 @@ Project Source: https://github.com/paulp/psp-std
 1. scala-logging    
 Scala Logging is a convenient and performant logging library wrapping SLF4J.     
 Project Source: https://github.com/typesafehub/scala-logging  
+
+1. scala-uri    
+Simple scala library for building and parsing URIs.     
+Project Source: https://github.com/NET-A-PORTER/scala-uri   
    

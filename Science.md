@@ -77,5 +77,13 @@ Project Source: https://github.com/dlwh/puck
 
 1. probability-monad     
 Makes it easy to create, manipulate and sample probability distributions.     
-Project Source: https://github.com/jliszka/probability-monad    
+Project Source: https://github.com/jliszka/probability-monad   
 
+1. signal-collect    
+A framework for scalable graph computing.     
+Project Source: https://github.com/uzh/signal-collect       
+Project Homepage: http://uzh.github.io/signal-collect/  
+
+1. bayes-scala    
+Bayesian Networks in Scala.     
+Project Source: https://github.com/danielkorzekwa/bayes-scala     

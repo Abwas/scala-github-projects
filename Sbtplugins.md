@@ -66,3 +66,10 @@ Project Source: https://github.com/sbt/sbt-start-script
 A sbt plugin for creating distributable Scala packages.   
 Project Source: https://github.com/xerial/sbt-pack   
 
+1. sbt-buildinfo    
+sbt-buildinfo generates Scala source from your build definitions.     
+Project Source: https://github.com/sbt/sbt-buildinfo   
+
+1. sbt-atmos    
+sbt plugin for running Typesafe Console in development.    
+Project Source: https://github.com/sbt/sbt-atmos  

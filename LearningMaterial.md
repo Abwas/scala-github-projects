@@ -65,4 +65,16 @@ Project Source: https://github.com/yareally/android-scala-intellij-no-sbt-plugin
 Source code for the book "Lift in Action", publishing on Manning Q4 2011.    
 Project Source: https://github.com/timperrett/lift-in-action     
 Project Homepage: http://timperrett.com/lift-in-action/   
+
+1. PlayBasics    
+Example code for my tutorial series about Play Framework 2.x.     
+Project Source: https://github.com/mariussoutier/PlayBasics   
+
+1. SprayLearning      
+Bunch of tutorials to get started with Spray.io and some common features and implementations used in the development of web service.      
+Project Source: https://github.com/karthik20522/SprayLearning  
+
+1. akka-in-action   
+Accompanying source code for akka in action.    
+Project Source: https://github.com/RayRoestenburg/akka-in-action   
  		

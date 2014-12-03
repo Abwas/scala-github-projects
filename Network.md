@@ -56,4 +56,12 @@ Project Source: https://github.com/spray/spray-can
 1. hookup    
 A reliable netty websocket server built on top of akka.     
 Project Source: https://github.com/backchatio/hookup    
-Project Homepage: http://backchatio.github.io/hookup/   
+Project Homepage: http://backchatio.github.io/hookup/  
+
+1. SprayWebSockets    
+An implementation of a websocket server on top of spray.io.    
+Project Source: https://github.com/lihaoyi/SprayWebSockets   
+
+1. scalamodules    
+ScalaModules is an elegant and intuitive domain specific language for OSGi development written in the Scala programming language.     
+Project Source: https://github.com/w11k/scalamodules        

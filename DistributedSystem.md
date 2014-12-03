@@ -9,6 +9,10 @@ Project Homepage: http://akka.io/
 Replication of CRDTs in Akka Cluster.    
 Project Source: https://github.com/patriknw/akka-data-replication
 
+1. akka-tracing   
+A distributed tracing extension for Akka.    
+Project Source: https://github.com/levkhomich/akka-tracing  
+
 1. finagle   
 Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.   
 Project Source: https://github.com/twitter/finagle    

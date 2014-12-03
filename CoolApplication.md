@@ -90,4 +90,16 @@ Project Source: https://github.com/fix-macosx/net-monitor
 Open source large document set visualization platform.    
 Project Source: https://github.com/overview/overview-server        
 Project Homepage: https://www.overviewproject.org/    
+
+1. cccp      
+Common Colaborative Coding Protocol.    
+Project Source: https://github.com/djspiewak/cccp   
+
+1. link-prediction    
+Solution to Facebook's link prediction contest on Kaggle.     
+Project Source: https://github.com/echen/link-prediction  
+
+1. gu-who    
+gu:who? is a simple service for auditing the members of your GitHub organisation.     
+Project Source: https://gu-who.herokuapp.com/  
   	          

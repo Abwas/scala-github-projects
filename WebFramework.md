@@ -46,10 +46,13 @@ A suite of scala libraries for building and consuming RESTful web services on to
 Project Source: https://github.com/spray/spray    
 Project Homepage: http://spray.io/
 
-
 1. spray-socketio     
 Socket.IO implementation on Spray with cluster sharding.    
-Project Source: https://github.com/wandoulabs/spray-socketio    
+Project Source: https://github.com/wandoulabs/spray-socketio 
+
+1. spray-template   
+SBT template project for quickly getting started with spray-server.   
+Project Source: https://github.com/spray/spray-template    
 
 1. scalatra    
 Tiny Scala high-performance, async web framework, inspired by Sinatra.    
@@ -94,3 +97,7 @@ Project Homepage: http://xitrum-framework.github.io/
 RESTful Web Framework based on Scala, built on top of Scalatra & Scalate.    
 Project Source: https://github.com/bowler-framework/Bowler      
 Project Homepage: http://bowlerframework.org/   
+
+1. scaladin    
+Scala API for Vaadin Framework.    
+Project Source: https://github.com/henrikerola/scaladin  

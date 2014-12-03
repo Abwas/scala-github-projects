@@ -22,4 +22,16 @@ Project Source: https://github.com/sksamuel/elastic4s
 1. sqltyped   
 Embedding SQL as an external DSL into Scala.  
 Project Source: https://github.com/jonifreeman/sqltyped  
+
+1. ScalaStorm     
+ScalaStorm provides a Scala DSL for Nathan Marz's Storm real-time computation system.     
+Project Source: https://github.com/velvia/ScalaStorm
+
+1. tormenta    
+Scala extensions for Storm.   
+Project Source: https://github.com/twitter/tormenta  
+
+1. simmer    
+Simmer is a streaming aggregation tool.      
+Project Source: https://github.com/avibryant/simmer  
    

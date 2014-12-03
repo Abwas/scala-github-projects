@@ -84,6 +84,14 @@ Project Documentation: http://websudos.github.io/phantom/
 Slick extensions for PostgreSQL, to support a series of pg data types and related operators/functions.    
 Project Source: https://github.com/tminglei/slick-pg  
 
+1. slick-joda-mapper    
+Slick with JodaTime.     
+Project Source: https://github.com/tototoshi/slick-joda-mapper  
+
+1. active-slick    
+Slick extensions for record lifecycle management.     
+Project Source: https://github.com/strongtyped/active-slick 
+
 1. neo4j-scala   
 Scala wrapper for Neo4j Graph Database.    
 Project Source: https://github.com/FaKod/neo4j-scala  
@@ -116,4 +124,12 @@ Project Source: https://github.com/twitter/haplocheirus
 1. HPaste    
 HBase DSL for Scala with MapReduce support.     
 Project Source: https://github.com/GravityLabs/HPaste   
+
+1. Raiku    
+A non-blocking - Akka IO driven - Riak client for Scala with a cute DSL.     
+Project Source: https://github.com/gideondk/Raiku    
+
+1. akka-crdt    
+Server-managed CRDTs based on Akka.    
+Project Source: https://github.com/jboner/akka-crdt   
    
