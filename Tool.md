@@ -64,11 +64,7 @@ Project Source: https://github.com/harrah/browse.
 1. ForgeMultipart    
 An API for dynamically handling different functional parts in the one block space.    
 Project Source: https://github.com/Chicken-Bones/ForgeMultipart    
-
-1. javatoscala   
-Online Java to Scala converter.    
-Project Source: https://github.com/koofr/javatoscala    
-
+ 
 1. scala-ssh     
 Remote shell access via SSH for your Scala applications.     
 Project Source: https://github.com/sirthias/scala-sshvv
@@ -92,3 +88,11 @@ Project Source: https://github.com/mbknor/ddsl
 1. scala-ide-play2    
 Play 2 support for Scala IDE.     
 Project Source: https://github.com/scala-ide/scala-ide-play2  
+
+1. scala-kafka    
+Quick up and running using Scala for Apache Kafka.     
+Project Source: https://github.com/stealthly/scala-kafka   
+
+1. Laika    
+Text Markup Transformer for sbt and Scala applications.    
+Project Source: https://github.com/planet42/Laika   

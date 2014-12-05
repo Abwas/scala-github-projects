@@ -91,3 +91,20 @@ Project Source: https://github.com/mysema/scalagen
 1. javatoscala   
 Online Java to Scala converter.    
 Project Source: https://github.com/koofr/javatoscala    
+
+1. scala-blitz    
+Scala framework for efficient sequential and data-parallel collections.     
+Project Source: https://github.com/scala-blitz/scala-blitz     
+Project Homepage: http://scala-blitz.github.io/   
+
+1. debox    
+Fast, deboxed, specialized data structures for Scala.     
+Project Source: https://github.com/non/debox    
+
+1. rillit    
+Boilerplate-free Functional Lenses for Scala 2.10.    
+Project Source: https://github.com/akisaarinen/rillit   
+
+1. scala-javautils    
+An set of utilities for dealing with Java and Scala collections.    
+Project Source: https://github.com/jorgeortiz85/scala-javautils  

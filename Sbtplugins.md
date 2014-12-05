@@ -73,3 +73,15 @@ Project Source: https://github.com/sbt/sbt-buildinfo
 1. sbt-atmos    
 sbt plugin for running Typesafe Console in development.    
 Project Source: https://github.com/sbt/sbt-atmos  
+
+1. sbt-sublime     
+An sbt pluign for generating Sublime Text projects with library dependencies sources.   
+Project Source: https://github.com/orrsella/sbt-sublime   
+
+1. ensime-sbt     
+Generates .ensime config files for SBT projects.     
+Project Source: https://github.com/ensime/ensime-sbt     
+
+1. sbt-scalariform     
+sbt plugin adding support for source code formatting using Scalariformc.     
+Project Source: https://github.com/sbt/sbt-scalariform    

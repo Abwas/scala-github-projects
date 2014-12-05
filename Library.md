@@ -141,4 +141,24 @@ Project Source: https://github.com/typesafehub/scala-logging
 1. scala-uri    
 Simple scala library for building and parsing URIs.     
 Project Source: https://github.com/NET-A-PORTER/scala-uri   
-   
+
+1. effectful   
+A syntax for type-safe effectful computations in Scala.     
+Project Source: https://github.com/pelotom/effectful   
+
+1. pureimage   
+PureImage is a raster image processing library written in Scala.     
+Project Source: https://github.com/stephenjudkins/pureimage    
+
+1. scalajs-react     
+Lifts Facebook's React library into Scala.js and endeavours to make it as type-safe and Scala-friendly as possible.    
+Project Source: https://github.com/japgolly/scalajs-react   
+
+1. webjars     
+Client-side web libraries packaged into JARs.   
+Project Source: https://github.com/webjars/webjars     
+Project Homepage: http://www.webjars.org/    
+
+1. slf4s    
+Simple Scala facade for SLF4J.   
+Project Source: https://github.com/w11k/slf4s     

@@ -132,4 +132,17 @@ Project Source: https://github.com/gideondk/Raiku
 1. akka-crdt    
 Server-managed CRDTs based on Akka.    
 Project Source: https://github.com/jboner/akka-crdt   
+
+1. datomisca    
+a Scala API for Datomic.     
+Project Source: https://github.com/pellucidanalytics/datomisca     
+Project Homepage: https://github.com/pellucidanalytics/datomisca    
+
+1. akka-persistence-cassandra    
+A replicated Akka Persistence journal backed by Apache Cassandra.    
+Project Source: https://github.com/krasserm/akka-persistence-cassandra   
+
+1. scalikejdbc-async    
+ScalikeJDBC Extension: Non-blocking APIs in the JDBC way.    
+Project Source: https://github.com/scalikejdbc/scalikejdbc-async   
    

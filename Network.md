@@ -65,3 +65,11 @@ Project Source: https://github.com/lihaoyi/SprayWebSockets
 1. scalamodules    
 ScalaModules is an elegant and intuitive domain specific language for OSGi development written in the Scala programming language.     
 Project Source: https://github.com/w11k/scalamodules        
+
+1. aeromock    
+Aeromock is an application server that generates HTML from template files and data files.      
+Project Source: https://github.com/CyberAgent/aeromock     
+
+1. spray-websocket    
+WebSocket for spray-can.     
+Project Source: https://github.com/wandoulabs/spray-websocket   

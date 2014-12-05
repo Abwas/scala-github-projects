@@ -13,6 +13,10 @@ Project Source: https://github.com/patriknw/akka-data-replication
 A distributed tracing extension for Akka.    
 Project Source: https://github.com/levkhomich/akka-tracing  
 
+1. akka-quartz-scheduler    
+Quartz Extension and utilities for cron-style scheduling in Akka.    
+Project Source: https://github.com/enragedginger/akka-quartz-scheduler
+
 1. finagle   
 Finagle is an extensible RPC system for the JVM, used to construct high-concurrency servers.   
 Project Source: https://github.com/twitter/finagle    

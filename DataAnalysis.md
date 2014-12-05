@@ -34,4 +34,8 @@ Project Source: https://github.com/twitter/tormenta
 1. simmer    
 Simmer is a streaming aggregation tool.      
 Project Source: https://github.com/avibryant/simmer  
+
+1. gearpump    
+An Actor Driven streaming framework.     
+Project Source: https://github.com/intel-hadoop/gearpump  
    

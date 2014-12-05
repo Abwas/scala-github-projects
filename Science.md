@@ -87,3 +87,16 @@ Project Homepage: http://uzh.github.io/signal-collect/
 1. bayes-scala    
 Bayesian Networks in Scala.     
 Project Source: https://github.com/danielkorzekwa/bayes-scala     
+
+1. scaldingale     
+Movie recommendations and MOAR in MapReduce and Scalding.     
+Project Source: https://github.com/echen/scaldingale       
+Project Introduction: http://blog.echen.me/2012/02/09/movie-recommendations-and-more-via-mapreduce-and-scalding/    
+
+1. brushfire     
+Distributed decision tree ensemble learning in Scala.     
+Project Source: https://github.com/stripe/brushfire    
+
+1. BIDMat     
+A CPU and GPU-accelerated matrix library for data mining.     
+Project Source: https://github.com/BIDData/BIDMat  

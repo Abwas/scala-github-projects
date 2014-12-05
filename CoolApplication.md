@@ -102,4 +102,12 @@ Project Source: https://github.com/echen/link-prediction
 1. gu-who    
 gu:who? is a simple service for auditing the members of your GitHub organisation.     
 Project Source: https://gu-who.herokuapp.com/  
+
+1. OBP-API   
+Welcome to the Open Bank Project API.    
+Project Source: https://github.com/OpenBankProject/OBP-API   
+
+1. eventual    
+The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project.     
+Project Source: https://github.com/angyjoe/eventual    
   	          

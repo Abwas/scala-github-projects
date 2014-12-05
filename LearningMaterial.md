@@ -76,5 +76,13 @@ Project Source: https://github.com/karthik20522/SprayLearning
 
 1. akka-in-action   
 Accompanying source code for akka in action.    
-Project Source: https://github.com/RayRoestenburg/akka-in-action   
- 		
+Project Source: https://github.com/RayRoestenburg/akka-in-action
+
+1. scala-js-example-app     
+Example application built with Scala.js.    
+Project Source: https://github.com/sjrd/scala-js-example-app   
+
+1. scala    
+LascoDan(Korea Scala Group) scala study.    
+Project Source: https://groups.google.com/forum/#!forum/scala-korea   
+    		

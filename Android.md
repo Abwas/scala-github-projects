@@ -22,4 +22,8 @@ Project Homepage: http://macroid.github.io/
 Android APRS reporting tool.    
 Project Source: https://github.com/ge0rg/aprsdroid   
 Project Homepage: http://aprsdroid.org/  
-    
+
+1. arduleader     
+An android ground controller (and other things) for Mavlink/Arduplane.    
+Proeject Source: https://github.com/geeksville/arduleader     
+     
