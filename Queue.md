@@ -13,4 +13,7 @@ Project Homepage: https://softwaremill.com/
 1. scala-zeromq    
 Thread-safe ZeroMQ for Scala.     
 Project Source: https://github.com/mDialog/scala-zeromq   
- 
+
+1. amqp-client    
+Simple fault-tolerant AMQP client written in Scala and based on Akka and the RabbitMQ java client.    
+Project Source: https://github.com/sstone/amqp-client  

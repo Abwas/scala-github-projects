@@ -161,4 +161,21 @@ Project Homepage: http://www.webjars.org/
 
 1. slf4s    
 Simple Scala facade for SLF4J.   
-Project Source: https://github.com/w11k/slf4s     
+Project Source: https://github.com/w11k/slf4s   
+
+1. scalafx   
+ScalaFX is a UI DSL written within the Scala Language that sits on top of JavaFX 8 and JavaFX 2.2.     
+Project Source: https://github.com/scalafx/scalafx   
+
+1. scala-abide    
+Library for quick scala code checking and validation.      
+Project Source: https://github.com/scala/scala-abide   
+
+1. rng    
+Pure-functional random value generation.     
+Project Source: https://github.com/NICTA/rng   
+
+1. basis    
+An experimental foundation library for Scala focussed on efficiency and clean design.     
+Project Source:  https://github.com/ReifyIt/basis   
+     

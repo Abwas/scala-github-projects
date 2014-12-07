@@ -100,3 +100,8 @@ Project Source: https://github.com/stripe/brushfire
 1. BIDMat     
 A CPU and GPU-accelerated matrix library for data mining.     
 Project Source: https://github.com/BIDData/BIDMat  
+
+1. scalex    
+Hoogle-like documentation search engine, for scala.     
+Project Source: https://github.com/ornicar/scalex      
+Project Homepage: http://scalex.org/    

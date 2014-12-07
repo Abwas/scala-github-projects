@@ -1,4 +1,5 @@
-##language
+
+1. ##language
 
 1. scala   
 The Scala programming language.    
@@ -108,3 +109,20 @@ Project Source: https://github.com/akisaarinen/rillit
 1. scala-javautils    
 An set of utilities for dealing with Java and Scala collections.    
 Project Source: https://github.com/jorgeortiz85/scala-javautils  
+
+1. s2js    
+Scala to Javascript compiler.     
+Project Source: https://github.com/alvaroc1/s2js    
+
+1. ozma    
+Extending Scala with Oz Concurrency.     
+Project Source: https://github.com/sjrd/ozma  
+
+1. lancet    
+surgical precision JIT compilers.     
+Project Source: https://github.com/TiarkRompf/lancet   
+
+1. Ctries    
+A concurrent hash-trie or Ctrie is a concurrent thread-safe lock-free implementation of a hash array mapped trie.     
+Project Source: https://github.com/axel22/Ctries   
+    

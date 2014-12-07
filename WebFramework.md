@@ -29,6 +29,14 @@ Project Source: https://github.com/leon/play-salat
 1mn REST/Crud/Async/Typesafe Datasource for Play Framework.    
 Project Source: https://github.com/mandubian/play-autosource
 
+1. play-sass     
+Sass asset handling for Play Framework 2.0.     
+Project Source: https://github.com/jlitola/play-sass 
+
+1. play-jsmessages     
+Library to compute localized messages of your Play application on client side.     
+Project Source: https://github.com/julienrf/play-jsmessages  
+
 1. twirl   
 Twirl is the Play template engine.    
 Project Source: https://github.com/playframework/twirl  
@@ -52,8 +60,12 @@ Project Source: https://github.com/wandoulabs/spray-socketio
 
 1. spray-template   
 SBT template project for quickly getting started with spray-server.   
-Project Source: https://github.com/spray/spray-template    
+Project Source: https://github.com/spray/spray-template  
 
+1. spray-swagger    
+Spray-Swagger brings Swagger support for Spray Apis.     
+Project Source: https://github.com/gettyimages/spray-swagger  
+  
 1. scalatra    
 Tiny Scala high-performance, async web framework, inspired by Sinatra.    
 Project Source: https://github.com/scalatra/scalatra     
@@ -101,3 +113,7 @@ Project Homepage: http://bowlerframework.org/
 1. scaladin    
 Scala API for Vaadin Framework.    
 Project Source: https://github.com/henrikerola/scaladin  
+
+1. chaos    
+A lightweight framework for writing REST services in Scala.     
+Project Source: https://github.com/mesosphere/chaos 

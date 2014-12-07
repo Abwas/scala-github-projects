@@ -85,4 +85,16 @@ Project Source: https://github.com/sjrd/scala-js-example-app
 1. scala    
 LascoDan(Korea Scala Group) scala study.    
 Project Source: https://groups.google.com/forum/#!forum/scala-korea   
+
+1. scalding-example-project     
+The Scalding WordCountJob example as a standalone SBT project with Specs2 tests, runnable on Amazon EMR.     
+Project Source: https://github.com/snowplow/scalding-example-project   
+
+1. tapl-scala    
+Code of "Types and Programming Languages" book in Scala.     
+Project Source: https://github.com/ilya-klyuchnikov/tapl-scala  
+
+1. sbt-in-action-examples    
+Source code examples for the book "sbt in Action".     
+Project Source: https://github.com/jsuereth/sbt-in-action-examples   
     		

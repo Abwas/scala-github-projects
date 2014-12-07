@@ -14,5 +14,10 @@ Project Source: https://github.com/ingoem/scala-react
 
 1. ddd-leaven-akka     
 Reactive DDD with Akka.     
-Project Source: https://github.com/pawelkaczor/ddd-leaven-akka  
+Project Source: https://github.com/pawelkaczor/ddd-leaven-akka    
+
+1. monifu    
+Reactive Programming for Scala and Scala.js.    
+Project Source: https://github.com/monifu/monifu   
+
   

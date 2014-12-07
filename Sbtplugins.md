@@ -84,4 +84,24 @@ Project Source: https://github.com/ensime/ensime-sbt
 
 1. sbt-scalariform     
 sbt plugin adding support for source code formatting using Scalariformc.     
-Project Source: https://github.com/sbt/sbt-scalariform    
+Project Source: https://github.com/sbt/sbt-scalariform   
+
+1. sbt-git     
+A GIT plugin for SBT.    
+Project Source: https://github.com/sbt/sbt-git   
+
+1. sbt-package-dist   
+sbt 11 plugin codifying best practices for building, packaging, and publishing.     
+Project Source: https://github.com/twitter/sbt-package-dist   
+
+1. sbt-docker    
+Create Docker images directly from sbt.    
+Project Source: https://github.com/marcuslonnberg/sbt-docker   
+
+1. SbtEclipsify    
+Sbt plugin for creating eclipse project and classpath files for sbt projects.    
+Project Source: https://github.com/musk/SbtEclipsify   
+
+1. intellij-sbt    
+SBT support in IntelliJ IDEA.    
+project Source: https://github.com/JetBrains/intellij-sbt   

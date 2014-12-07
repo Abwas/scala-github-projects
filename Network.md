@@ -73,3 +73,7 @@ Project Source: https://github.com/CyberAgent/aeromock
 1. spray-websocket    
 WebSocket for spray-can.     
 Project Source: https://github.com/wandoulabs/spray-websocket   
+
+1. loft   
+Continuation based non-blocking, asynchronous, single threaded web server. Inspired by Swirl, Tornado itself and Deft.    
+Project Source: https://github.com/rschildmeijer/loft  

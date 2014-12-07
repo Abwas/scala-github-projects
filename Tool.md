@@ -96,3 +96,7 @@ Project Source: https://github.com/stealthly/scala-kafka
 1. Laika    
 Text Markup Transformer for sbt and Scala applications.    
 Project Source: https://github.com/planet42/Laika   
+
+1. knockoff    
+A Markdown parser + object model in scala.     
+Project Source: https://github.com/tristanjuricek/knockoff   

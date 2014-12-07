@@ -145,4 +145,30 @@ Project Source: https://github.com/krasserm/akka-persistence-cassandra
 1. scalikejdbc-async    
 ScalikeJDBC Extension: Non-blocking APIs in the JDBC way.    
 Project Source: https://github.com/scalikejdbc/scalikejdbc-async   
-   
+
+1. scredis    
+Non-blocking, ultra-fast Scala Redis client built on top of Akka IO, used in production at Livestream.    
+Project Source: https://github.com/Livestream/scredis   
+
+1. TreodeDB    
+TreodeDB is a distributed database that provides multirow atomic writes, and it's designed for RESTful services.     
+Project Source: https://github.com/Treode/store     
+Homepage: http://treode.github.io/   
+
+1. scouchdb    
+CouchDB Driver and View Server in Scala.     
+Project Source: https://github.com/debasishg/scouchdb   
+
+1. brando    
+A Redis client written with Akka's IO package.     
+Project Source: https://github.com/chrisdinn/brando  
+
+1. bytecask    
+Key/value database inspired by Bitcask.     
+Project Source: https://github.com/pbudzik/bytecask  
+
+1. riak-scala-client    
+An easy to use, non-blocking, fast Scala client library for interacting with Riak.     
+Project Source: https://github.com/agemooij/riak-scala-client    
+Project Homepage: http://riak.scalapenos.com/   
+    

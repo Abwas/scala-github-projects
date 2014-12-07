@@ -109,5 +109,30 @@ Project Source: https://github.com/OpenBankProject/OBP-API
 
 1. eventual    
 The Eventual PlayFramework-AngularJS-Bootstrap-MongoDB Seed Project.     
-Project Source: https://github.com/angyjoe/eventual    
+Project Source: https://github.com/angyjoe/eventual   
+
+1. scage    
+game engine written in Scala.     
+Project Source: https://github.com/dunnololda/scage   
+
+1. cqrs-akka    
+An implementation of CQRS using scalaz for functional domain models and Akka for event sourcing.    
+Project Source: https://github.com/debasishg/cqrs-akka   
+
+1. scaled    
+Scaled is a modern programmer's text editor, built atop Java 8 and JavaFX 8.     
+Project Source:  https://github.com/scaled/scaled  
+
+1. talking-puffin    
+TalkingPuffin is a powerful, open source, desktop Twitter client.     
+Project Source: https://github.com/dcbriccetti/talking-puffin      
+Project Homepage: http://talkingpuffin.org/    
+
+1. picture-show    
+slip and slide picture shows for the web.    
+Project Source: https://github.com/softprops/picture-show   
+
+1. akka-raft   
+This is an akka based implementation of the Raft consensus algorithm.    
+Project Source: https://github.com/ktoso/akka-raft   
   	          
